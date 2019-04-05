@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1551639050 source:c:\users\sameer\desktop\opencvprojects\sentencestwo_030319\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	"Sentences.h"
+
+1551639050 c:\users\sameer\desktop\opencvprojects\sentencestwo_030319\sentences.h
+	<string>
+	<vector>
+
+1551636588 source:c:\users\sameer\desktop\opencvprojects\sentencestwo_030319\sentences.cpp
+	"Sentences.h"
+	<iostream>
+
+1552871895 source:c:\users\sameer\desktop\opencvprojects\sentencesthreebetter_040319\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	"Sentences.h"
+	"Words.h"
+
+1551682519 c:\users\sameer\desktop\opencvprojects\sentencesthreebetter_040319\sentences.h
+	<string>
+	<vector>
+
+1552871797 source:c:\users\sameer\desktop\opencvprojects\sentencesthreebetter_040319\sentences.cpp
+	"Sentences.h"
+	<iostream>
+
+1552847682 source:c:\users\sameer\desktop\opencvprojects\sentencesthreebetter_040319\words.cpp
+	"Words.h"
+	<iostream>
+	<cctype>
+	<cstring>
+
+1552846943 c:\users\sameer\desktop\opencvprojects\sentencesthreebetter_040319\words.h
+	<string>
+	<cstring>
+	<vector>
+
+1552847684 source:c:\users\user\desktop\school\programming\assignment\sentencesthreebetter\sentencesthreebetter_040319\words.cpp
+	"Words.h"
+	<iostream>
+	<cctype>
+	<cstring>
+
+1552846944 c:\users\user\desktop\school\programming\assignment\sentencesthreebetter\sentencesthreebetter_040319\words.h
+	<string>
+	<cstring>
+	<vector>
+
+1554468222 source:c:\users\user\desktop\school\programming\assignment\sentencesthreebetter\sentencesthreebetter_040319\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	"Sentences.h"
+
+1554132963 c:\users\user\desktop\school\programming\assignment\sentencesthreebetter\sentencesthreebetter_040319\sentences.h
+	<string>
+	<vector>
+
+1554132931 source:c:\users\user\desktop\school\programming\assignment\sentencesthreebetter\sentencesthreebetter_040319\sentences.cpp
+	"Sentences.h"
+	<iostream>
+
+1554468222 source:c:\users\user\desktop\school\programming\assignment\programming assignment 2019\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	"Sentences.h"
+
+1554132963 c:\users\user\desktop\school\programming\assignment\programming assignment 2019\sentences.h
+	<string>
+	<vector>
+
+1554132931 source:c:\users\user\desktop\school\programming\assignment\programming assignment 2019\sentences.cpp
+	"Sentences.h"
+	<iostream>
+
