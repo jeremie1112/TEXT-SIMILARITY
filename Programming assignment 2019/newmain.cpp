@@ -138,6 +138,8 @@ int main() {
                        two[0] = two[0] + 32;
                    }
 
+                   //This piece of code is written as these words cannot be taken for account as they logically 
+                   //sentences with these words cannot be similar
                    if (one == "is" || one == "a" || two == "is" || two == "a"){
                        continue;
                    }
@@ -158,7 +160,8 @@ int main() {
             float score = 0.0;
 
             score = AnB/AuB;
-
+ 
+            //logically if AnB is > AuB, the score must be one
             if (AnB > AuB){
                 score = 1.0;
                 AnB = s1[i].getNumWords();
